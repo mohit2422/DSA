@@ -1,0 +1,4 @@
+Switch Example
+Switch in infinite While loop and use of exit()
+Calculator using Switch
+Number of different notes money

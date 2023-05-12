@@ -1,0 +1,14 @@
+Accessing the ith index value.
+Printing all the index value in an Array.
+Storing and Printing all the index with same values without writing in {} in an Array.
+Array using functions.
+Find the Max and Min elements of the given Array.
+Changing the elements in call function without changing the values in main function.
+Print the sum of all elements in the Array.
+Comparing b/w the Sum of all elements & Min elements in the given Array.
+LINEAR SEARCH IN ARRAY ELEMENTS.
+REVERSING THE ARRAY ELEMENTS.
+SWAP ALTERANTE ELEMENTS.
+FINDING THE UNIQUE ELEMENT IN THE ARRAY.
+FINDING THE ONE DUPLICATE ELEMENT IN THE ARRAY.
+INTERSECTION OF TWO ARRAYS.

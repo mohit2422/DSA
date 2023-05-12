@@ -1,0 +1,9 @@
+Use of pow(m,n) function : a power b 
+Given number is Even or Odd
+P & C : Calculating nCr value
+Counting of natural number
+Given number is Prime
+Arithmetic Progression : Find value of nth term
+Counting and Sum of total number of Setbit(no. of 1)
+Fibonacci Series 
+Pass by Values examples 
