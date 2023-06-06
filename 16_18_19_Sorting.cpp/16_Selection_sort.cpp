@@ -7,7 +7,7 @@
 using namespace std;
 
 void SlectionSort(int arr[], int n){
-                for(int i = 0; i < n-1; i++){
+                for(int i = 0; i < n-1; i++){       // total round ---> n-1 
                     int MinIndex = i;
 
                     for(int j = i+1; j < n; j++){

@@ -13,6 +13,10 @@ int main(){
     maxi.push(3);
     maxi.push(2);
     maxi.push(0);
+    cout<<maxi.top()<<endl;
+    maxi.pop();
+
+    cout<<maxi.top()<<endl;
 
     int n = maxi.size();
 
